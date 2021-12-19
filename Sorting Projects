@@ -1,0 +1,76 @@
+ # Insertion Sort Project 
+ ## EX:1
+###1-Dizinin Sort türüne göre aşamalarını yazınız. 
+
+```
+ [22,27,16,2,18,6]
+  [2,27,16,22,18,6]
+  [2,6,16,22,18,27]
+  [2,6,16,18,22,27]
+```
+ 
+ ###2- Big-O gösterimi 
+```       
+        O(n^2)
+```
+###3- Time Complexity ; 
+ ```                
+                 Best case:    O(n)
+                 Average Case: O(n^2)
+                 Worst case:   O(n^2)
+ ```   
+ ```
+###4- 18 sayısı, Avg Case e girer.
+```
+
+##EX2: [7,3,5,8,2,9,4,15,6] dizisinin insertion sort a göre aşamalarını gösteriniz.
+```
+[7,3,5,8,2,9,4,15,6]
+
+1. [2,3,5,8,7,9,4,15,6]
+2. [2,3,4,8,7,9,5,15,6]
+3. [2,3,4,5,7,9,8,15,6]
+4. [2,3,4,5,6,9,8,15,7]
+```
+
+# Merge Sort projesi 
+
+[16,21,11,8,12,22]
+
+   16,21,11         8,12,22
+    /     \         /      \
+16,21      11    8,12       22
+   \       /      \        /
+  16  21  11     8   12   22
+  
+  
+  11,16,21,          8,12,22
+        \             /
+       8,11,12,16,21,22
+  
+  [8,11,12,16,21,22]
+  
+  
+  # Binary Search Tree 
+    [7,5,1,8,3,6,0,9,4,2]  dizisinin Binary-Search-Tree aşamalarını yazınız.
+  
+     " 5'i Root olarak seçtim."
+     
+    [7,5,1,8,3,6,0,9,4,2]
+    
+    ```
+                  ##  5 
+                 /         \ 
+              2              8
+              /\            /\
+             1  3          7  9
+             /   \        /
+            0     4      6 
+    
+    ```
+    
+  
+  
+  
+  
+  
