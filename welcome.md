@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @melikekaraa
+-### Hi there 👋
+- 👋 I’m @melikekaraa
 - 👀 I’m interested in architecture and data science.
 - 🌱 I’m currently learning data science and intro of coding.
 - 💞️ I’m looking to collaborate on Python but I dont know anything yet. Though we can talk about almost anything 🌱
 
-
-<!---
-melikekaraa/melikekaraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on ...
+- 🤔 I’m looking for help with Basics of Coding, any suggestion how should I start, what first should I learn etc.
+- 💬 Ask me about anything but be nice and respectful.
+- 📫 How to reach me: ...
+- 😄 Pronouns: Smart, fun, friendly, kind
+- ⚡ Fun fact: I do not have anything to write down here, yet.
+-->
